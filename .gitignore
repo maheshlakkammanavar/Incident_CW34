@@ -7,6 +7,7 @@ default-*.json
 .cdsrc-private.json
 gen/
 node_modules/
+package-lock.json
 target/
 
 # Web IDE, App Studio
@@ -17,6 +18,7 @@ target/
 *_mta_build_tmp
 *.mtar
 mta_archives/
+mta.yaml
 
 # Other
 .DS_Store
